@@ -5,5 +5,7 @@
 🎯 Goal: Become a remote Laravel developer and work on meaningful projects  
 🌍 Based in Morocco  
 💡 Always curious and eager to grow in the tech world
+Check out my portfolio here:  
+[My Portfolio](https://errami-khadija.github.io/Errami-Khadija_Portfolio/)
 
 Feel free to explore my projects below ⬇️
