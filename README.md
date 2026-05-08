@@ -6,6 +6,10 @@
 🌍 Based in Morocco  
 💡 Always curious and eager to grow in the tech world
 Check out my portfolio here:  
-[My Portfolio](https://errami-khadija.github.io/Errami-Khadija_Portfolio/)
+<p align="center">
+  <a href="https://errami-khadija.github.io/Errami-Khadija_Portfolio/">
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-Click Here-blueviolet?style=for-the-badge" />
+  </a>
+</p>
 
 Feel free to explore my projects below ⬇️
